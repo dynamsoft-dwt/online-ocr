@@ -11,7 +11,7 @@ Screenshots
 Download & Installation
 -----------------------
 * [Dynamic .NET TWAIN][3]
-* [Open XML SDK 2.5 for Microsoft Office][4]
+* [DocumentFormat.OpenXml 2.5.0][4]
 
 How to Run
 -----------
@@ -21,6 +21,6 @@ How to Run
 [1]:http://www.dynamsoft.com/Products/WebTWAIN_Overview.aspx
 [2]:http://www.dynamsoft.com/Products/.Net-TWAIN-Scanner.aspx
 [3]:https://www.dynamsoft.com/Secure/Register_ClientInfo.aspx?productName=NetTWAIN&from=FromDownload
-[4]:http://www.microsoft.com/en-us/download/details.aspx?id=30425
+[4]:https://www.nuget.org/packages/DocumentFormat.OpenXml/
 
 
