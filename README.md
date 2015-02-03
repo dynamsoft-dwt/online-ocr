@@ -9,6 +9,7 @@ Screenshots
 ![image](http://www.codepool.biz/wp-content/uploads/2015/01/ocr_word_final.png)
 
 Blog
+----
 [Online OCR – Convert Images to Word, Text and PDF][5]
 
 Download & Installation
