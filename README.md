@@ -8,6 +8,9 @@ Screenshots
 -----------
 ![image](http://www.codepool.biz/wp-content/uploads/2015/01/ocr_word_final.png)
 
+Blog
+[Online OCR – Convert Images to Word, Text and PDF][5]
+
 Download & Installation
 -----------------------
 * [Dynamic .NET TWAIN][3]
@@ -22,5 +25,5 @@ How to Run
 [2]:http://www.dynamsoft.com/Products/.Net-TWAIN-Scanner.aspx
 [3]:https://www.dynamsoft.com/Secure/Register_ClientInfo.aspx?productName=NetTWAIN&from=FromDownload
 [4]:https://www.nuget.org/packages/DocumentFormat.OpenXml/
-
+[5]:http://www.codepool.biz/ocr/online-ocr-convert-images-to-word-text-and-pdf.html
 
